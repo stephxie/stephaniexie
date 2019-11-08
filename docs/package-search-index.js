@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"HW08","l":"common"},{"m":"HW08","l":"common.message"},{"m":"HW08","l":"common.message.collection"},{"m":"HW08","l":"common.message.command"},{"m":"HW08","l":"common.message.room"},{"m":"HW08","l":"common.message.status"},{"m":"HW08","l":"common.message.user"}]
