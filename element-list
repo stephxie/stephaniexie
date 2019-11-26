@@ -1,8 +1,8 @@
-module:HW08
 common
-common.message
-common.message.collection
-common.message.command
-common.message.room
-common.message.status
-common.message.user
+common.msg
+common.msg.action
+common.msg.action.application
+common.msg.action.application.collection
+common.msg.action.gameLobby
+common.msg.content
+common.msg.status
